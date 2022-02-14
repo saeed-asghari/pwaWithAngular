@@ -1,7 +1,5 @@
 # Jokes
 npm i
-
-Install http-server Global
 npm i -g http-server
 
 ## Build
