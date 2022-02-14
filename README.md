@@ -3,8 +3,8 @@
 2. npm i -g http-server
 
 ## Build
-ng build --prod 
+1. ng build --prod 
 
-Then into cd dist\jokes and run http-server -o 
+2. Then into cd dist\jokes and run http-server -o 
 
 
