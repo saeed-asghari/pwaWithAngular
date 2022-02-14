@@ -5,6 +5,6 @@
 ## Build
 1. ng build --prod 
 
-2. Then into cd dist\jokes and run http-server -o 
+2. Then into cd dist\jokes and run command http-server -o 
 
 
