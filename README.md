@@ -1,6 +1,6 @@
 # Jokes
-1.npm i
-2.npm i -g http-server
+1. npm i
+2. npm i -g http-server
 
 ## Build
 ng build --prod 
