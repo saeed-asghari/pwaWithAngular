@@ -3,8 +3,10 @@
 2. npm i -g http-server
 
 ## Build
-1. ng build --prod 
-
+1. run command root project
+```
+ng build --prod 
+```
 2. cd dist\jokes then run command 
 ```
 http-server -o 
